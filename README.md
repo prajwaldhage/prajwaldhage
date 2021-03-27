@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me : https://www.prajwaldage.tk or email me at prajwaldhage14@gmail.com
+- 📫 How to reach me : https://www.prajwaldhage.tk or email me at prajwaldhage14@gmail.com
 
 <!---
 prajwaldhage/prajwaldhage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
