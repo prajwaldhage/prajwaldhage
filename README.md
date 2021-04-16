@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prajwaldhage
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning to code
+- 💞️ I’m looking someone who can teach me to code
 - 📫 How to reach me : https://www.prajwaldhage.tk or email me at prajwaldhage14@gmail.com
 
 <!---
