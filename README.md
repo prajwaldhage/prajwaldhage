@@ -4,7 +4,7 @@
 
 <hr>
 <br>
-<center>
+<p align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/prajwaldhage/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,7 +20,7 @@
 </div>
 <br>
 <img src="https://komarev.com/ghpvc/?username=prajwaldhage&style=flat-square&color=blue" alt=""/>
-
+</p>
 <h1>
   Hey There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -42,7 +42,7 @@
 ---
 ### 🛠 Languages and Tools:
 
-<div style="text-align: center;">
+<p align="center">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -55,18 +55,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
+</p>
 
 ---
 
 ### 🔥 My Stats:
-<div style="text-align: center;">
+<p align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajwaldhage&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwaldhage)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</p>
 
 ---
 
