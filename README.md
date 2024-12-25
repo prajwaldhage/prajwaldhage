@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/prajwaldhage/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="discordapp.com/users/prajwal.hub/">
+  <a href="https://discordapp.com/users/prajwal.hub/">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <a href="https://x.com/Prajwal_hub">
